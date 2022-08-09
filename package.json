@@ -1,0 +1,19 @@
+{
+  "name": "al-package",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pohutukawa-2022/AL-CP02.git"
+  },
+  "author": "al",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pohutukawa-2022/AL-CP02/issues"
+  },
+  "homepage": "https://github.com/pohutukawa-2022/AL-CP02#readme"
+}
